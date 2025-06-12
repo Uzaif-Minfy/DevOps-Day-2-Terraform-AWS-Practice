@@ -1,0 +1,1 @@
+Not allowed to make dynaboDB table![alt text](image.png)
