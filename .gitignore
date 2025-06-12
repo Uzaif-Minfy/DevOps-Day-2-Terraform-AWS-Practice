@@ -4,3 +4,5 @@
 *.tfvars
 crash.log
 *.plan
+*.lock.hcl
+
