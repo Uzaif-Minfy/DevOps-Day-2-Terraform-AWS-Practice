@@ -15,6 +15,7 @@ terraform apply
 
 
 Outputs:
+
 ![alt text](image-8.png)
 
 
