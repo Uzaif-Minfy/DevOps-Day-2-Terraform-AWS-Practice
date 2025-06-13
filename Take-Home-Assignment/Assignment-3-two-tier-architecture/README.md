@@ -1,4 +1,4 @@
-Blocked permission to create RDS Subnet Group due to a Service Control Policy, but was able to run _terraform plan_ successfully
+Permission blocked to create RDS Subnet Group due to a Service Control Policy, but was able to run _terraform plan_ successfully
 ![alt text](image-6.png)
 
 
